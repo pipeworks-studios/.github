@@ -8,4 +8,4 @@ Visit [our website](https://www.pipeworks.com/) to learn more about our work!
 
 ----
 
-� 2023 Pipeworks Studios. All Rights Reserved. Part of Jagex Ltd.
+&#169; 2023 Pipeworks Studios. All Rights Reserved. Part of Jagex Ltd.
